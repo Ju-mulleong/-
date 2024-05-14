@@ -1,0 +1,11 @@
+# 반복문 사용 안하고 일단 해보기
+# square_root = n ** 1/2
+print('2의 제곱근 = {}'.format(2 ** 0.5)) 
+print('3의 제곱근 = {}'.format(3 ** 0.5)) 
+print('4의 제곱근 = {}'.format(4 ** 0.5)) 
+print('5의 제곱근 = {}'.format(5 ** 0.5)) 
+print('6의 제곱근 = {}'.format(6 ** 0.5)) 
+print('7의 제곱근 = {}'.format(7 ** 0.5)) 
+print('8의 제곱근 = {}'.format(8 ** 0.5)) 
+print('9의 제곱근 = {}'.format(9 ** 0.5)) 
+print('10의 제곱근 = {}'.format(10 ** 0.5)) 

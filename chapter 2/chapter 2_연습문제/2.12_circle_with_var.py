@@ -7,6 +7,8 @@ circumference = 2 * PI * radius
 area = PI * radius * radius 
 area2 = PI * radius ** 2 
 
+print(area, area2)
+
 print(area != area2)
 # area와 area2 다르다
 
